@@ -1,16 +1,9 @@
-# loginui2
+# Flutter Simple Login Register UI
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
+<img src="https://github.com/stevie1mat/Flutter-Simple-Login-Register-UI/blob/main/1.jpeg" width="300" height="600">
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/stevie1mat/Flutter-Simple-Login-Register-UI/blob/main/2.jpeg" width="300" height="600">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/stevie1mat/Flutter-Simple-Login-Register-UI/blob/main/3.jpeg" width="300" height="600">
